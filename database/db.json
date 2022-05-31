@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "id": "111",
+      "name": "Satoshi",
+      "surname": "Hakama",
+      "email": "user1@gmail.com",
+      "password": "Japan123",
+      "img": "https://cdn4.iconfinder.com/data/icons/diversity-v2-0-volume-03/64/ninja-assassin-japanese-sword-woman-512.png"
+    },
+    {
+      "id": "112",
+      "name": "Yasua",
+      "surname": "Nakamura",
+      "email": "user2@gmail.com",
+      "password": "Japan123",
+      "img": "https://avatars.githubusercontent.com/u/32338617?v=4"
+    },
+    {
+      "id": "113",
+      "name": "Saori",
+      "surname": "Murakami",
+      "email": "user3@gmail.com",
+      "password": "Japan123",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg0dUku_FMvMPng8JgMNC0mjlsLoMWats04Q&usqp=CAU"
+    }
+  ],
+  "shopItems": [
+    {
+      "id": "1",
+      "images": [
+        "https://www.picng.com/upload/katana/png_katana_81222.png"
+      ],
+      "price": 299.99,
+      "categories": [
+        "souvenir",
+        "hobies"
+      ],
+      "amount": 1
+    },
+    {
+      "id": "2",
+      "images": [
+        "https://m.media-amazon.com/images/I/71cvKEwWL9L._AC_SL1500_.jpg"
+      ],
+      "price": 4.99,
+      "categories": [
+        "souvenir"
+      ],
+      "amount": 128
+    },
+    {
+      "id": "3",
+      "images": [
+        "https://m.media-amazon.com/images/I/51PUsYn2PkL._AC_SX466_.jpg"
+      ],
+      "price": 84.95,
+      "categories": [
+        "souvenir",
+        "sake set"
+      ],
+      "amount": 22
+    },
+    {
+      "id": "4",
+      "images": [
+        "https://images.unsplash.com/photo-1590559899731-a382839e5549?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8b3Nha2F8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+      ],
+      "price": 99.99,
+      "categories": [
+        "Osaka",
+        "tour",
+        "sightseeing"
+      ],
+      "amount": 99
+    },
+    {
+      "id": "5",
+      "images": [
+        "https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dG9reW98ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+      ],
+      "price": 99.99,
+      "categories": [
+        "Tokyo",
+        "tour",
+        "sightseeing"
+      ],
+      "amount": 97
+    },
+    {
+      "id": "6",
+      "images": [
+        "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8a3lvdG98ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+      ],
+      "price": 109.99,
+      "categories": [
+        "Kyoto",
+        "tour",
+        "sightseeing"
+      ],
+      "amount": 88
+    },
+    {
+      "id": "7",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1969/5775/products/Kameda-Kakinotane-Snack-Rice-Crackers-with-Peanuts-190g-Japanese-Taste_91cbf589-ccee-4010-99d6-f23744fa5373.jpg?v=1628851430"
+      ],
+      "price": 1.59,
+      "categories": [
+        "snacks",
+        "food"
+      ],
+      "amount": 28
+    }
+  ]
+}
